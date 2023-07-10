@@ -1,6 +1,10 @@
-# Learning Flutter
+# Learning Flutter - Basics Dice Roller
 
-A new Flutter project.
+In this small project we are learning:
+
+- Basic concept of Widgets
+- Stateful and Stateless Widget
+- Styling
 
 ## Getting Started
 

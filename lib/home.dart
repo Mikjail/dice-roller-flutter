@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'dice_roller.dart';
+import 'package:of_dice_roller/dice_roller.dart';
 
 class Home extends StatelessWidget {
   const Home({super.key, required this.colors});

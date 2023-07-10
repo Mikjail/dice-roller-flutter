@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:of_card_match/styled_text.dart';
+import 'package:of_dice_roller/styled_text.dart';
 import 'dart:math';
 
 final _randomizer = Random();

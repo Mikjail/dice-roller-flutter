@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:of_dice_roller/home.dart';
 
-import 'package:of_card_match/home.dart';
-
-void main() => runApp(MyApp());
+void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
